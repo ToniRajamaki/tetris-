@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>grid.png</file>
+        <file>tetrominos/0_horizontal.png</file>
+        <file>tetrominos/1_left_corner.png</file>
+        <file>tetrominos/2_right_corner.png</file>
+        <file>tetrominos/3_square.png</file>
+        <file>tetrominos/4_right_step_up.png</file>
+        <file>tetrominos/5_pyramid.png</file>
+        <file>tetrominos/6_left_step_up.png</file>
+    </qresource>
+</RCC>
